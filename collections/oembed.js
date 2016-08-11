@@ -1,0 +1,1 @@
+OembedsCache = new Mongo.Collection('iframely_oembeds_cache');
